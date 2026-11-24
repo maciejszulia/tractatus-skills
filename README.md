@@ -44,3 +44,7 @@ Proposition numbers refer to the C. K. Ogden translation (1922), public domain,
 właściciel by nie chciał. `tractatus-verify` przed słowem „gotowe” rozbija twierdzenie na
 zdania elementarne, każde sprawdza z rzeczywistością, a niesprawdzone oznacza jako
 niezweryfikowane.
+
+## Documentation
+
+[Architecture documentation](docs/architecture/README.md)
